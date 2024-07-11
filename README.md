@@ -73,6 +73,6 @@ The detail screen displays the detail of any product selected
 
 ## Screenshot
 
-![Screenshot](./assets/far.jpg)
-![Screenshot](./assets/far1.jpg)
-![Screenshot](./assets/far2.jpg)
+![App Screenshot](./assets/far.jpg)
+![App Screenshot](./assets/far1.jpg)
+![App Screenshot](./assets/far2.jpg)
